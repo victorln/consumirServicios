@@ -1,8 +1,8 @@
 {
 "users":[
-{"id":1,"name":"victor luna","username":"vluna","email":"victor_luna_n@hotmail.com","image":"https://i.ibb.co/r4pGM06/cody.png"},
-{"id":2,"name":"juan perez","username":"jperez","email":"jperez@hotmail.com","image":"https://i.ibb.co/r4pGM06/cody.png"},
-{"id":3,"name":"jhony lopez","username":"jlopez","email":"jlopez@hotmail.com","image":"https://i.ibb.co/r4pGM06/cody.png"}
+{"id":1,"name":"victor luna","username":"vluna","email":"victor_luna_n@hotmail.com","image":"http://i.ibb.co/r4pGM06/cody.png"},
+{"id":2,"name":"juan perez","username":"jperez","email":"jperez@hotmail.com","image":"http://i.ibb.co/r4pGM06/cody.png"},
+{"id":3,"name":"jhony lopez","username":"jlopez","email":"jlopez@hotmail.com","image":"http://i.ibb.co/r4pGM06/cody.png"}
 ],
   "posts": [
     { "id": 1, "title": "Porque adoptar animales?","body":"Pienso que es importante adoptar animales porque...","userId":1 },
